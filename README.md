@@ -4,7 +4,7 @@
 
 Minhas atividades
 
-- 🔭 Atuamente não estou trabalhando 
+- 🔭 Atualmente não estou trabalhando 
 - 🌱 Estou estudando a linguagem JavaScript com front-End
 - 👯 Busco aprender com desenvolvedores experiente.
 - 👀 Atualmente estou desenvolvendo aplicações na linguagens:
