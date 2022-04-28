@@ -17,7 +17,7 @@ Minhas atividades
 - 📝 Html
 - 🖌 Css
 - ☕🔐 JavaScript
-- ##🎓Formação 
+- ##  🎓Formação 
 - 🔍 Analise e Desenvolvimento de Sistema 
 - 🧪🖥 Ciencia da Computação Cursando
 
