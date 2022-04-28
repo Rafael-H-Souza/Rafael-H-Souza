@@ -47,5 +47,5 @@ Minhas atividades
   <a href = "https://www.instagram.com/rafael.h.souz/" target = "_black"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_black"></a>
   <a href = "mailto:rafael.h.souza@outlook.com" target = "_black"><img src ="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "_black"></a>
   </div>
-  
+  ##
   
