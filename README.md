@@ -1,23 +1,37 @@
-### Olá! Eu sou o Rafael Souza
+# Olá! Eu sou o Rafael Souza
 
 
 
 Minhas atividades
 
-- 🔭 Atualmente não estou trabalhando 
-- 🌱 Estou estudando a linguagem JavaScript com front-End
+- 🔭 Atualmente estou em busca da primeira oportunidade "oficial" <!--Eu creio que assim é mais interessante do que colocar que não está trabalhando. Sempre seja positivo! :) -->
+- 🌱 Estou estudando a linguagem JavaScript com Front-End
 - 👯 Busco aprender com desenvolvedores experiente.
 - 👀 Atualmente estou desenvolvendo aplicações na linguagens:
-- ##   🔙🔚 Back end
+##   🔙🔚 Back end
+<!--
 - ☕ JAVA
 - C# CSharp
 - ©  C++
-- 🎲 Sql Serve
-- ## 📊🔚 Front end 
+- 🎲 Sql Server
+-->
+- ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+## 📊🔚 Front end 
+<!--
 - 📝 Html
 - 🖌 Css
 - ☕🔐 JavaScript
-- ##  🎓Formação 
+-->
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<!--O que você pode fazer é atrelar o link de uma lista sua depois de cada badge. Então, ao clicar no badge, você é direcionado a lista de seu repositório da lingaguem. Exemplo:
+[![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](coloque_a_url_da_sua_lista_aqui)
+ -->
+ ##  🎓Formação 
 - 🔍 Analise e Desenvolvimento de Sistema 
 - 🧪🖥 Ciencia da Computação Cursando
 
