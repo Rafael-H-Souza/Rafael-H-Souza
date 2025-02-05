@@ -25,7 +25,7 @@ Minhas atividades
 ##
 
 <div>
-<a href="https://github.com/Rafael-H-Souza/Rafael-H-Souza">
+<a href="https://github.com/Rafael-H-Souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-H-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-H-Souza&layout=compact&langs_count=16&theme=dracula"/>
 </div>
