@@ -10,6 +10,7 @@ Minhas atividades
 - 👀 Atualmente estou desenvolvendo aplicações na linguagens:
 - ##   🔙🔚 Back end
 - ☕ JAVA
+- 🐍 Python
 - C# CSharp
 - ©  C++
 - 🎲 Sql Serve
@@ -17,7 +18,9 @@ Minhas atividades
 - 📝 Html
 - 🖌 Css
 - ☕🔐 JavaScript
-- ##  🎓Formação 
+- ##  🎓Formação
+- 📁 Arquitetura Node Api
+- 📂 Arquitetura MVC
 - 🔍 Analise e Desenvolvimento de Sistema 
 - 🧪🖥 Ciencia da Computação Cursando
 
