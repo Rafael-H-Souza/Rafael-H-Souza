@@ -18,9 +18,10 @@ Minhas atividades
 - 📝 Html
 - 🖌 Css
 - ☕🔐 JavaScript
-- ##  🎓Formação
 - 📁 Arquitetura Node Api
 - 📂 Arquitetura MVC
+- ##  🎓Formação
+
 - 🔍 Analise e Desenvolvimento de Sistema 
 - 🧪🖥 Ciencia da Computação Cursando
 
