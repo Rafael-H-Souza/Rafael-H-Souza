@@ -39,13 +39,13 @@ Minhas atividades
 <div style = "display: inline_block"><br>
     <img align ="center" alt="Rafa-Csharp" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
      <img align ="center" alt="Rafa-Java" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+     <img align ="center" alt="Rafa-Python" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/python-original.svg">
      <img align ="center" alt="Rafa-JavaScript" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-     <img align ="center" alt="Rafa-TypeScript" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-     <img align ="center" alt="Rafa-Python" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-     <img align ="center" alt="Rafa-Html" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-     <img align ="center" alt="Rafa-Css" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-     <img align ="center" alt="Rafa-Mongodb" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-     <img align ="center" alt="Rafa-Sql" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+     <img align ="center" alt="Rafa-TypeScript" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/typescript-original.svg">
+     <img align ="center" alt="Rafa-Html" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/html-original.svg">
+     <img align ="center" alt="Rafa-Css" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/css-original.svg">
+     <img align ="center" alt="Rafa-Mongodb" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/mongodb-original.svg">
+     <img align ="center" alt="Rafa-Sql" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/sql-original.svg">
      <img align ="center" alt="Rafa-c" height="30" width "40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
   
